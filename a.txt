@@ -1,0 +1,2 @@
+teacherName=wangwu
+teacherAge=55
